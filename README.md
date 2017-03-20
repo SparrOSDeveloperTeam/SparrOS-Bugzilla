@@ -14,5 +14,5 @@ STATUS: 23% Fixed
 
 ## SparrOS Server Edition:
 
-
-If you find any errors
+# Note
+If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">Suse Studio</a>.
