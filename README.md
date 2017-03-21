@@ -3,6 +3,7 @@ Bugs found in SparrOS
 
 0A: Crash
 0C: Error
+0E: Missing
 0F: Restricted
 
 ## SparrOS Desktop Edition:
@@ -11,10 +12,13 @@ Bugs found in SparrOS
 STATUS: Fixed
 
 ### Bug #0Ax000002: Executing Minetest with wine fails:
-STATUS: 95% Fixed
+STATUS: Fixed
 
 ### Bug #0Cx000001: Dummy Output for sound on real hardware:
 STATUS: 23% Fixed
+
+### Bug #0Ex000001: Missing Wallpapers
+STATUS: Fixed
 
 ### Bug #0Fx000001: VirtualBox restricts access
 STATUS: Fixed
