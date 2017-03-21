@@ -1,14 +1,21 @@
 # SparrOS-Bugzilla
 Bugs found in SparrOS
 
-0A: Crash            00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+00: Illegal Instruction
 
-0C: Error            00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+01: Software
 
-0E: Missing          00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+02: Driver
 
-0F: Restricted       00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+03: Corrupted File
 
+0A: Crash
+
+0C: Error
+
+0E: Missing
+
+0F: Restricted=
 ## SparrOS Desktop Edition:
 
 ### Bug #0Ax00: Selecting KDE 5 Workstation, LXDE, or another desktop crashes the pc:
