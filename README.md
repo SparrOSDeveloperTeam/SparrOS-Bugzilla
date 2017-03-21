@@ -11,7 +11,7 @@ Bugs found in SparrOS
 STATUS: Fixed
 
 ### Bug #0Ax000002: Executing Minetest with wine fails:
-STATUS: 90% Fixed
+STATUS: 95% Fixed
 
 ### Bug #0Cx000001: Dummy Output for sound on real hardware:
 STATUS: 23% Fixed
