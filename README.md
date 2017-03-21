@@ -2,8 +2,11 @@
 Bugs found in SparrOS
 
 0A: Crash            00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+
 0C: Error            00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+
 0E: Missing          00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+
 0F: Restricted       00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
 
 ## SparrOS Desktop Edition:
