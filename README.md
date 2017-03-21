@@ -1,26 +1,26 @@
 # SparrOS-Bugzilla
 Bugs found in SparrOS
 
-0A: Crash
-0C: Error
-0E: Missing
-0F: Restricted
+0A: Crash            00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+0C: Error            00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+0E: Missing          00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
+0F: Restricted       00: Illegal Instruction        01: Software          02: Driver           03: Corrupted File
 
 ## SparrOS Desktop Edition:
 
-### Bug #0Ax000001: Selecting KDE 5 Workstation, LXDE, or another desktop crashes the pc:
+### Bug #0Ax00: Selecting KDE 5 Workstation, LXDE, or another desktop crashes the pc:
 STATUS: Fixed
 
-### Bug #0Ax000002: Executing Minetest with wine fails:
+### Bug #0Ax01: Executing Minetest with wine fails:
 STATUS: Fixed
 
-### Bug #0Cx000001: Dummy Output for sound on real hardware:
+### Bug #0Fx02: Dummy Output for sound on real hardware:
 STATUS: 23% Fixed
 
-### Bug #0Ex000001: Missing Wallpapers
+### Bug #0Ex03: Missing Wallpapers
 STATUS: Fixed
 
-### Bug #0Fx000001: VirtualBox restricts access
+### Bug #0Fx01: VirtualBox restricts access
 STATUS: Fixed
 
 ## SparrOS Server Edition:
