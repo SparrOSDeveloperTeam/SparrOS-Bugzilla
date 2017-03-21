@@ -15,7 +15,7 @@ Bugs found in SparrOS
 
 0E: Missing
 
-0F: Restricted=
+0F: Restricted
 ## SparrOS Desktop Edition:
 
 ### Bug #0Ax00: Selecting KDE 5 Workstation, LXDE, or another desktop crashes the pc:
