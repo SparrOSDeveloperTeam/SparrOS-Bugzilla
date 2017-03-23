@@ -1,6 +1,8 @@
 # SparrOS-Bugzilla
 Bugs found in SparrOS
 
+!: Important
+
 00: Illegal Instruction
 
 01: Software
@@ -16,6 +18,7 @@ Bugs found in SparrOS
 0E: Missing
 
 0F: Restricted
+
 ## SparrOS Desktop Edition:
 
 ### Bug #0Ax00: Selecting KDE 5 Workstation, LXDE, or another desktop crashes the pc:
@@ -32,6 +35,9 @@ STATUS: Fixed
 
 ### Bug #0Fx01: VirtualBox restricts access
 STATUS: Fixed
+
+### Bug #0Cx01: Missing 2 RPMs during build
+STATUS: 85% Fixed
 
 ## SparrOS Server Edition:
 
