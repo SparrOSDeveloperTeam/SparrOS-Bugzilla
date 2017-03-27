@@ -37,7 +37,7 @@ STATUS: Fixed
 STATUS: Fixed
 
 ### Bug #0Cx01: Missing 2 RPMs during build
-STATUS: 85% Fixed
+STATUS: 97% Fixed
 
 ## SparrOS Server Edition:
 
