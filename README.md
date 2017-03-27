@@ -36,8 +36,8 @@ STATUS: Fixed
 ### Bug #0Fx01: VirtualBox restricts access
 STATUS: Fixed
 
-### Bug #0Cx01: Missing 2 RPMs during build
-STATUS: 97% Fixed
+### Bug #!0Cx01: Missing 2 RPMs during build
+STATUS: Fixed
 
 ## SparrOS Server Edition:
 
