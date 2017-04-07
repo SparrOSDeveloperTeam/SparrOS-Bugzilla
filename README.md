@@ -46,7 +46,8 @@ STATUS: 23% Fixed
 
 ## SparrOS Tablet PC Edition:
 
-No bugs yet discovered. :)
+### Bug #0Fx02: Dummy Output for sound on real hardware:
+STATUS: 23% Fixed
 
 # Note
 If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">Suse Studio</a>.
