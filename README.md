@@ -44,7 +44,7 @@ STATUS: Fixed
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
 STATUS: 23% Fixed
 
-## SparrOS Tablet PC Edition:
+## SparrOS Starter Edition:
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
 STATUS: 23% Fixed
