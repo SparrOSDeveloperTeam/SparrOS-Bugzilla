@@ -49,5 +49,8 @@ STATUS: 23% Fixed
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
 STATUS: 23% Fixed
 
+### Bug #0Cx00: Tutorial doesn't have colored buttons:
+STATUS: 97% Fixed
+
 # Note
 If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">Suse Studio</a>.
