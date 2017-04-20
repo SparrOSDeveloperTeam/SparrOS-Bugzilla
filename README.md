@@ -31,6 +31,7 @@ Bugs found in SparrOS
 
 <a id="#SparrOS-Desktop-Edition" name="#SparrOS-Desktop-Edition">
 </a>
+
 ## SparrOS Desktop Edition:
 
 ### Bug #0Ax00: Selecting KDE 5 Workstation, LXDE, or another desktop crashes the pc:
@@ -53,6 +54,7 @@ STATUS: Fixed
 
 <a id="#SparrOS-Server-Edition" name="#SparrOS-Server-Edition">
 </a>
+
 ## SparrOS Server Edition:
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
@@ -60,6 +62,7 @@ STATUS: 27% Fixed
 
 <a id="#SparrOS-Starter-Edition" name="#SparrOS-Starter-Edition">
 </a>
+
 ## SparrOS Starter Edition:
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
@@ -73,6 +76,7 @@ STATUS: 64% Fixed
 
 <a id="#SparrOS-TabletPC-Edition" name="#SparrOS-TabletPC-Edition">
 </a>
+
 ## SparrOS TabletPC Edition:
 
 ### Bug #0F02: Dummy Output for sound on real hardware:
