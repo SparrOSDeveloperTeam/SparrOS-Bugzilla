@@ -68,4 +68,4 @@ STATUS: 64% Fixed
 STATUS: 27% Fixed
 
 # Note
-If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">Suse Studio</a>.
+If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">SUSE Studio</a>.
