@@ -23,11 +23,11 @@ Bugs found in SparrOS
 0F: Restricted
 
 ### Available Versions:
-1. <a href="SparrOS-Desktop-Edition">SparrOS Desktop Edition</a>
-2. <a href="SparrOS-Server-Edition">SparrOS Server Edition</a>
-3. <a href="">SparrOS Boot/Rescue CD (Discontinued)</a>
-4. <a href="SparrOS-Starter-Edition">SparrOS Starter Edition</a>
-5. <a href="SparrOS-TabletPC-Edition">SparrOS TabletPC Edition</a>
+1. <a href="#SparrOS-Desktop-Edition">SparrOS Desktop Edition</a>
+2. <a href="#SparrOS-Server-Edition">SparrOS Server Edition</a>
+3. <a href="#">SparrOS Boot/Rescue CD (Discontinued)</a>
+4. <a href="#SparrOS-Starter-Edition">SparrOS Starter Edition</a>
+5. <a href="#SparrOS-TabletPC-Edition">SparrOS TabletPC Edition</a>
 
 <a id="SparrOS-Desktop-Edition" name="SparrOS-Desktop-Edition">
 </a>
@@ -86,5 +86,5 @@ STATUS: 27% Fixed
 If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">SUSE Studio</a>.
 
 
-<a href="top">Back to top -^
+<a href="#top">Back to top -^
 </a>
