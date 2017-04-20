@@ -1,3 +1,5 @@
+<a id="#top" name="#top">
+</a>
 # SparrOS-Bugzilla
 Bugs found in SparrOS
 
@@ -77,4 +79,7 @@ STATUS: 27% Fixed
 
 # Note
 If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">SUSE Studio</a>.
-<a href="#top">Back to top -^</a>
+
+
+<a href="#top">Back to top -^
+</a>
