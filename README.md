@@ -1,3 +1,4 @@
+<html>
 <head>
 <link rel="shortcut icon" type="image/x-icon" href="SparrOS.ico" />
 </head>
@@ -91,3 +92,4 @@ If you find any errors, please tell me in the comments @ <a href="https://susest
 
 <a href="#top">Back to top -^
 </a>
+</html>
