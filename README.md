@@ -1,5 +1,5 @@
 <head>
-<link rel="shortcut icon" type="image/x-icon" href="tux.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="SparrOS.ico" />
 </head>
 <a id="top" name="top">
 </a>
