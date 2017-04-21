@@ -72,7 +72,7 @@ STATUS: 27% Fixed
 STATUS: Fixed
 
 ### Bug #0Cx02: When choosing the GNOME window manager, it asks for sign out or reinstallation:
-STATUS: 64% Fixed
+STATUS: REMOVED upon release.
 
 <a id="SparrOS-TabletPC-Edition" name="SparrOS-TabletPC-Edition">
 </a>
