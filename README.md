@@ -1,7 +1,3 @@
-<html>
-<head>
-<link rel="shortcut icon" type="image/x-icon" href="SparrOS.ico" />
-</head>
 <a id="top" name="top">
 </a>
 
@@ -89,7 +85,5 @@ STATUS: 27% Fixed
 # Note
 If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">SUSE Studio</a>.
 
-
 <a href="#top">Back to top -^
 </a>
-</html>
