@@ -41,7 +41,7 @@ STATUS: Fixed
 STATUS: Fixed
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
-STATUS: 27% Fixed
+STATUS: 29% Fixed
 
 ### Bug #0Ex03: Missing Wallpapers
 STATUS: Fixed
@@ -61,7 +61,7 @@ STATUS: 5% Fixed
 ## SparrOS Server Edition:
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
-STATUS: 27% Fixed
+STATUS: 29% Fixed
 
 <a id="SparrOS-Starter-Edition" name="SparrOS-Starter-Edition">
 </a>
@@ -69,7 +69,7 @@ STATUS: 27% Fixed
 ## SparrOS Starter Edition:
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
-STATUS: 27% Fixed
+STATUS: 29% Fixed
 
 ### Bug #0Cx00: Tutorial doesn't have colored buttons:
 STATUS: Fixed
@@ -83,7 +83,7 @@ STATUS: REMOVED upon release.
 ## SparrOS TabletPC Edition:
 
 ### Bug #0F02: Dummy Output for sound on real hardware:
-STATUS: 27% Fixed
+STATUS: 29% Fixed
 
 # Note
 If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">SUSE Studio</a>.
