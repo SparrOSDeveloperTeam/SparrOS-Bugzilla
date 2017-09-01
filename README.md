@@ -52,6 +52,9 @@ STATUS: Fixed
 ### Bug #!0Cx01: Missing 2 RPMs during build
 STATUS: Fixed
 
+### Bug #!0Cx00: 3 Package Downloads failed
+STATUS: 5% Fixed
+
 <a id="SparrOS-Server-Edition" name="SparrOS-Server-Edition">
 </a>
 
