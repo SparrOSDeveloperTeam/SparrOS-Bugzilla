@@ -53,7 +53,7 @@ STATUS: Fixed
 STATUS: Fixed
 
 ### Bug #!0Cx00: 3 Package Downloads failed
-STATUS: 5% Fixed
+STATUS: 33% Fixed
 
 <a id="SparrOS-Server-Edition" name="SparrOS-Server-Edition">
 </a>
