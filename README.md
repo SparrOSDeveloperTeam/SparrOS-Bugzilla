@@ -24,10 +24,10 @@ Bugs found in SparrOS
 
 ### Available Versions:
 1. <a href="#SparrOS-Desktop-Edition">SparrOS Desktop Edition</a>
-2. <a href="#SparrOS-Server-Edition">SparrOS Server Edition</a>
+2. <a href="#SparrOS-Server-Edition">SparrOS Server Edition (Discontinued)</a>
 3. <a href="#">SparrOS Boot/Rescue CD (Discontinued)</a>
-4. <a href="#SparrOS-Starter-Edition">SparrOS Starter Edition</a>
-5. <a href="#SparrOS-TabletPC-Edition">SparrOS TabletPC Edition</a>
+4. <a href="#SparrOS-Starter-Edition">SparrOS Starter Edition (Discontinued)</a>
+5. <a href="#SparrOS-TabletPC-Edition">SparrOS TabletPC Edition (Discontinued)</a>
 
 <a id="SparrOS-Desktop-Edition" name="SparrOS-Desktop-Edition">
 </a>
@@ -41,7 +41,7 @@ STATUS: Fixed
 STATUS: Fixed
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
-STATUS: 29% Fixed
+STATUS: Fixed
 
 ### Bug #0Ex03: Missing Wallpapers
 STATUS: Fixed
@@ -53,7 +53,10 @@ STATUS: Fixed
 STATUS: Fixed
 
 ### Bug #!0Cx00: 3 Package Downloads failed
-STATUS: 33% Fixed
+STATUS: Closed
+
+### Bug #0Cx01: Default Wallpapers are Mint
+Status: Probing
 
 <a id="SparrOS-Server-Edition" name="SparrOS-Server-Edition">
 </a>
