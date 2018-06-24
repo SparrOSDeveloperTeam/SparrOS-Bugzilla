@@ -56,7 +56,7 @@ STATUS: Fixed
 STATUS: Closed
 
 ### Bug #0Cx01: Default Wallpapers are Mint
-Status: Probing
+Status: Fixed
 
 <a id="SparrOS-Server-Edition" name="SparrOS-Server-Edition">
 </a>
