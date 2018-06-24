@@ -28,6 +28,9 @@ Bugs found in SparrOS
 3. <a href="#">SparrOS Boot/Rescue CD (Discontinued)</a>
 4. <a href="#SparrOS-Starter-Edition">SparrOS Starter Edition (Discontinued)</a>
 5. <a href="#SparrOS-TabletPC-Edition">SparrOS TabletPC Edition (Discontinued)</a>
+6. <a href="#SparrOS-Terminal-Edition">SparrOS PC Terminal Edition</a>
+7. <a href="#SparrOS-Pi-Edition">SparrOS Raspberry Pi Edition</a>
+8. <a href="#SparrOS-Terminal-Pi-Edition">SparrOS Raspberry Pi Terminal Edition</a>
 
 <a id="SparrOS-Desktop-Edition" name="SparrOS-Desktop-Edition">
 </a>
@@ -87,6 +90,18 @@ STATUS: REMOVED upon release.
 
 ### Bug #0F02: Dummy Output for sound on real hardware:
 STATUS: 29% Fixed
+
+<a id="SparrOS-Terminal-Edition" name="SparrOS-Terminal-Edition" />
+## SparrOS PC Terminal Edition:
+No bugs!
+
+<a id="SparrOS-Pi-Edition" name="SparrOS-Pi-Edition" />
+## SparrOS Raspberry Pi Edition:
+No bugs!
+
+<a id="SparrOS-Terminal-Pi-Edition" name="SparrOS-Terminal-Pi-Edition" />
+## SparrOS Raspberry Pi Terminal Edition:
+No bugs!
 
 # Note
 If you find any errors, please tell me in the comments @ <a href="https://susestudio.com/u/yoe">SUSE Studio</a>.
