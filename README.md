@@ -91,15 +91,21 @@ STATUS: REMOVED upon release.
 ### Bug #0F02: Dummy Output for sound on real hardware:
 STATUS: 29% Fixed
 
-<a id="SparrOS-Terminal-Edition" name="SparrOS-Terminal-Edition" />
+<a id="SparrOS-Terminal-Edition" name="SparrOS-Terminal-Edition">
+<a/>
+
 ## SparrOS PC Terminal Edition:
 No bugs!
 
-<a id="SparrOS-Pi-Edition" name="SparrOS-Pi-Edition" />
+<a id="SparrOS-Pi-Edition" name="SparrOS-Pi-Edition">
+</a>
+
 ## SparrOS Raspberry Pi Edition:
 No bugs!
 
-<a id="SparrOS-Terminal-Pi-Edition" name="SparrOS-Terminal-Pi-Edition" />
+<a id="SparrOS-Terminal-Pi-Edition" name="SparrOS-Terminal-Pi-Edition">
+</a>
+
 ## SparrOS Raspberry Pi Terminal Edition:
 No bugs!
 
