@@ -67,7 +67,7 @@ Status: Fixed
 ## SparrOS Server Edition:
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
-STATUS: 29% Fixed
+STATUS: Closed
 
 <a id="SparrOS-Starter-Edition" name="SparrOS-Starter-Edition">
 </a>
@@ -75,7 +75,7 @@ STATUS: 29% Fixed
 ## SparrOS Starter Edition:
 
 ### Bug #0Fx02: Dummy Output for sound on real hardware:
-STATUS: 29% Fixed
+STATUS: Closed
 
 ### Bug #0Cx00: Tutorial doesn't have colored buttons:
 STATUS: Fixed
@@ -89,7 +89,7 @@ STATUS: REMOVED upon release.
 ## SparrOS TabletPC Edition:
 
 ### Bug #0F02: Dummy Output for sound on real hardware:
-STATUS: 29% Fixed
+STATUS: Closed
 
 <a id="SparrOS-Terminal-Edition" name="SparrOS-Terminal-Edition">
 <a/>
